@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Teaching Assistant (TA)
-- **3D Image Reconstruction & Visualisation (2024-2B)** — SIS ID: 2024-202400339-2B | Term: 2024-2B
-- **AI & Image Processing (2024-2A)** — SIS ID: 2024-202400338-2A | Term: 2024-2A
-- **Image Processing and Computer Vision (2025-1A)** — SIS ID: 2025-202200103-1A | Term: 2025-1A
+- **3D Image Reconstruction & Visualisation (2024-2B)**
+- **AI & Image Processing (2024-2A)**
+- **Image Processing and Computer Vision (2025-1A)**
 
 ## Student Supervision
 Completed:  
