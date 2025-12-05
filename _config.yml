@@ -7,19 +7,17 @@
 # server process.
 
 author:
-  avatar        : "profile.png"
-  name          : "Dezhi Sun"
-  bio           : "PhD candidate at University of Twente. Research interests: robotic ultrasound, medical image segmentation, AR/VR for rehabilitation."
-  location      : "Enschede, The Netherlands"
-  employer      : "University of Twente"
-  email         : "你的邮箱"
+  avatar   : "profile.png"
+  name     : "Dezhi Sun"
+  bio      : "PhD candidate at the University of Twente. My research focuses on robotic ultrasound, medical image segmentation, and AR/VR for healthcare."
+  location : "Enschede, The Netherlands"
+  employer : "University of Twente"
+  email    : "sundezhi0914@gmail.com"
 
-  googlescholar : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid         : "https://orcid.org/你的ORCID"
-  semantic      : "你的Semantic Scholar作者页"
-  researchgate  : "你的ResearchGate主页"
-  arxiv         : "https://arxiv.org/search/?searchtype=author&query=Sun%2C+Dezhi"  # 如果你有 arXiv
-  pubmed        : "https://pubmed.ncbi.nlm.nih.gov/?term=Dezhi+Sun"                # 如果你有 PubMed 论文
+  # Academic / professional
+  googlescholar : "https://scholar.google.com/citations?hl=en&user=rIEAYAwAAAAJ"
+  orcid         : "https://orcid.org/0009-0006-9678-8999"
+  linkedin      : "https://www.linkedin.com/in/dezhi-sun-32406b2b9/"
 
 
   # Repositories and software development
