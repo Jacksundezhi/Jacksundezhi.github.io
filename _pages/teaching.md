@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Teaching Assistant (TA)
-- **3D Image Reconstruction & Visualisation (2024-2B)**
-- **AI & Image Processing (2024-2A)**
+- **3D Image Reconstruction & Visualisation (2025-2B)**
+- **AI & Image Processing (2025-2A)(2026-2A)**
 - **Image Processing and Computer Vision (2025-1A)**
 
 ## Student Supervision
