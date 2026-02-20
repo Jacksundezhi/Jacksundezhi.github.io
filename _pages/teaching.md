@@ -28,5 +28,5 @@ Peer review:
 **ICRA 2026**  
 **IEEE Transactions on Robotics (T-RO)**  
 **IEEE Transactions on Visualization and Computer Graphics (TVCG)**
-** Scientific Report **
+**Scientific Report**
 
