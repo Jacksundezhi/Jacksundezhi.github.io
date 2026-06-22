@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "An Autonomous Fluoroscopic Imaging System for Catheter Insertions by Bilateral Control Scheme: A Numerical Simulation Study"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-fluoroscopic-imaging-machines
+excerpt: "Numerical simulation study of an autonomous fluoroscopic imaging system for catheter insertion."
+year: 2025
+venue: "Machines"
+citation: "Ward, G. Y., Sun, D., & Niu, K. (2025). <i>An Autonomous Fluoroscopic Imaging System for Catheter Insertions by Bilateral Control Scheme: A Numerical Simulation Study</i>. Machines, 13(6), 498."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This journal article studies bilateral control for autonomous fluoroscopic imaging during catheter insertion tasks.

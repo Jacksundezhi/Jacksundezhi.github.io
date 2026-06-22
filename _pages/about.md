@@ -7,4 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I received my MSc from The Hong Kong Polytechnic University, in the Electronic and Information Engineering (EIE) programme under the Department of Electronic and Information Engineering, which is positioned within the broader Faculty/School of Electrical and Electronic Engineering (EEE). In the Dutch academic context, this background aligns closely with programmes under EEMCS (Electrical Engineering, Mathematics and Computer Science). Building on this foundation, I am currently pursuing my PhD at the University of Twente in the Robotics and Mechatronics group. My research spans medical image analysis with a focus on image segmentation, robotic ultrasound data acquisition and 3D reconstruction, and reinforcement learning for adaptive perception and control in clinical or rehabilitation-oriented settings.
+I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente. My research focuses on robotic ultrasound, medical image analysis, and image-guided robotic systems for healthcare. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering.
+
+## Research Interests
+
+- Robotic ultrasound imaging
+- Medical image segmentation
+- 3D reconstruction and image-guided robotics
+- AR/VR-assisted healthcare
+- Robot perception, force control, and adaptive autonomy

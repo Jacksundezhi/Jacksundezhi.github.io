@@ -41,3 +41,42 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.pub-entry h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05em;
+}
+
+.pub-entry p {
+  margin: 0.25rem 0;
+}
+
+.publication-list {
+  margin-top: 1rem;
+}
+
+.pub-entry {
+  position: relative;
+  margin-bottom: 1rem;
+  padding: 1rem 1rem 1rem 1.15rem;
+  border-left: 3px solid var(--global-link-color);
+  background: var(--global-bg-color);
+  box-shadow: 0 1px 0 var(--global-border-color);
+}
+
+.pub-label {
+  display: inline-block;
+  margin-bottom: 0.45rem;
+  padding: 0.12rem 0.5rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  color: var(--global-text-color-light);
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.pub-meta {
+  color: var(--global-text-color-light);
+}
