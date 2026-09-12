@@ -9,11 +9,11 @@ author_profile: true
 
 ### MSc Assignments
 
-- **Marijn van Hilten** — *Vision-Based Deformable Object Manipulation with the Robotic Arm* (MSc assignment; submitted to IEEE ROBIO)
+- **Marijn van Hilten** — *Vision-Based Deformable Object Manipulation with the Robotic Arm* (MSc assignment)
 - **Wouter de Gries** — *Vision-Based Real-Time Fingertip Force and Tissue-Stiffness Estimation for Next-Generation Human-Robot Interaction* (MSc assignment)
 - **[Tongli Zhu](https://www.ram.eemcs.utwente.nl/about-us/students/tongli-zhu)** — *AR-MoCap: Augmented Reality Motion Tracking System* (MSc assignment; submitted to IEEE Sensors Journal)
 - **Vera Leeman** — *Intra-Control: Advancing Tissue Deformation Modeling for Precise Robot Control in Needle Biopsy* (MSc assignment)
-- **Khang Banh** — *AGI: Modular Embedded AI for Visual Servoing in Adaptive Robotic Systems* (MSc assignment; submitted to IEEE ROBIO)
+- **Khang Banh** — *AGI: Modular Embedded AI for Visual Servoing in Adaptive Robotic Systems* (MSc assignment)
 - **Boris ter Braak** — *Virtual Training Simulator for Endoscopic Middle Ear and Stapes Surgery* (MSc assignment)
 - **Guus Branderhorst** — *ARUS - Automatic Robotic Ultrasound Scanning for Bone Segmentation in the Lower Extremity* (MSc assignment)
 - **Kaiwen Lu** — *AR-Robot: Augmented Reality Motion Tracking System for Human-Robot Interaction* (MSc assignment)
