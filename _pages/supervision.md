@@ -44,5 +44,6 @@ author_profile: true
 
 - **Jacco Bluemink** — [*ARUS*](https://www.ram.eemcs.utwente.nl/education/assignments/arus) (Academic Skills Project)
 - **Khang Banh** — *Embedded AI edge computing for real-time object tracking* (Academic Skills Project)
+- **Wouter de Gries** — *3D Vision-based fingertip path recording and force estimation for ultrasound path planning* (Academic Skills Project)
 
 </div>
