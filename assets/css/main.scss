@@ -64,6 +64,11 @@
   box-shadow: 0 1px 0 var(--global-border-color);
 }
 
+.pub-entry.featured {
+  border-left-width: 5px;
+  background: linear-gradient(135deg, rgba(0, 121, 193, 0.08), rgba(0, 121, 193, 0.015));
+}
+
 .pub-label {
   display: inline-block;
   margin-bottom: 0.45rem;
@@ -79,6 +84,24 @@
 
 .pub-meta {
   color: var(--global-text-color-light);
+}
+
+.pub-links {
+  margin-top: 0.55rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  font-size: 0.78em;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  border-color: var(--global-link-color);
 }
 
 .home-hero {

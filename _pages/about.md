@@ -45,17 +45,17 @@ I am a PhD candidate in the Robotics and Mechatronics group at the University of
 ## Selected Publications
 
 <div class="publication-list compact">
+  <article class="pub-entry featured">
+    <span class="pub-label">Journal</span>
+    <h3>Self-derived Motion Features from sEMG for Inferring 3D Forearm Trajectories</h3>
+    <p>B. Lan, <strong>Dezhi Sun</strong>, I. Tamadon, Kenan Niu.</p>
+    <p class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, 2026.</p>
+  </article>
   <article class="pub-entry">
     <span class="pub-label">Journal</span>
     <h3>HCCE-CUNet Based Multi-Class Musculoskeletal Segmentation for Robotic Ultrasound System</h3>
     <p><strong>Dezhi Sun</strong>, Stefano Stramigioli, Kenan Niu.</p>
     <p class="pub-meta"><em>IEEE Transactions on Medical Robotics and Bionics</em>, 2025.</p>
-  </article>
-  <article class="pub-entry">
-    <span class="pub-label">Journal</span>
-    <h3>Automatic Robotic Ultrasound for 3D Musculoskeletal Reconstruction: A Comprehensive Framework</h3>
-    <p><strong>Dezhi Sun</strong>, Alberto Cappellari, Bofan Lan, Mohamad Abayazid, Stefano Stramigioli, Kenan Niu.</p>
-    <p class="pub-meta"><em>Technologies</em>, 13(2), 70, 2025.</p>
   </article>
 </div>
 
