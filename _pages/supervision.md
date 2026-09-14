@@ -7,11 +7,13 @@ author_profile: true
 
 ## Student Supervision
 
-<p class="page-intro">Student projects I have supervised or co-supervised across robotic perception, medical robotics, AR/VR, and adaptive robot control.</p>
+<div class="page-lead">
+  <p>Student projects I have supervised or co-supervised across robotic perception, medical robotics, AR/VR, and adaptive robot control.</p>
+</div>
 
 ### MSc Assignments
 
-<div class="supervision-list" markdown="1">
+<div class="supervision-list academic-list" markdown="1">
 
 - **Marijn van Hilten** — *Vision-Based Deformable Object Manipulation with the Robotic Arm* (MSc assignment)
 - **Wouter de Gries** — *Vision-Based Real-Time Fingertip Force and Tissue-Stiffness Estimation for Next-Generation Human-Robot Interaction* (MSc assignment)
@@ -28,7 +30,7 @@ author_profile: true
 
 ### BSc Assignments
 
-<div class="supervision-list" markdown="1">
+<div class="supervision-list academic-list" markdown="1">
 
 - **Jesse Veening** — [*Real-Time Position Replication in a Wireless Leader-Follower Tactile Pin System: Design and Validation of a Single Pin-Pair Proof of Concept*](https://www.ram.eemcs.utwente.nl/education/assignments/real-time-position-replication-wireless-leader-follower-tactile-pin-system) (BSc assignment)
 - **Luuk van der Sluis** — [*ClayDock-4 (Franka ToolBox for Plasticine Manipulation)*](https://www.ram.eemcs.utwente.nl/education/assignments/claydock-4-franka-toolbox-plasticine-manipulation) (BSc assignment)
@@ -40,7 +42,7 @@ author_profile: true
 
 ### Academic Skills Projects
 
-<div class="supervision-list" markdown="1">
+<div class="supervision-list academic-list" markdown="1">
 
 - **Jacco Bluemink** — [*ARUS*](https://www.ram.eemcs.utwente.nl/education/assignments/arus) (Academic Skills Project)
 - **Khang Banh** — *Embedded AI edge computing for real-time object tracking* (Academic Skills Project)

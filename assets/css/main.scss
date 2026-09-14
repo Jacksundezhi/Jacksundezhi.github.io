@@ -42,73 +42,24 @@
     "vendor/font-awesome/brands"
 ;
 
-.pub-entry h3 {
-  margin: 0 0 0.35rem;
-  font-size: 1.05em;
-}
-
-.pub-entry p {
-  margin: 0.25rem 0;
-}
-
-.publication-list {
-  margin-top: 1rem;
-}
-
-.pub-entry {
-  position: relative;
-  margin-bottom: 1rem;
-  padding: 1rem 1rem 1rem 1.15rem;
-  border-left: 3px solid var(--global-link-color);
-  background: var(--global-bg-color);
-  box-shadow: 0 1px 0 var(--global-border-color);
-}
-
-.pub-entry.featured {
-  border-left-width: 5px;
-  background: linear-gradient(135deg, rgba(0, 121, 193, 0.08), rgba(0, 121, 193, 0.015));
-}
-
-.pub-label {
-  display: inline-block;
-  margin-bottom: 0.45rem;
-  padding: 0.12rem 0.5rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 999px;
-  color: var(--global-text-color-light);
-  font-size: 0.72em;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-}
-
-.pub-meta {
-  color: var(--global-text-color-light);
-}
-
-.pub-links {
-  margin-top: 0.55rem;
-}
-
-.pub-links a {
-  display: inline-block;
-  padding: 0.15rem 0.55rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 999px;
-  font-size: 0.78em;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.pub-links a:hover {
-  border-color: var(--global-link-color);
+/* Academic homepage refinements */
+.page__content h2 {
+  margin-top: 2.1rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--global-border-color);
 }
 
 .home-hero {
-  margin-bottom: 2rem;
-  padding: 1.35rem 1.5rem;
-  border-left: 4px solid var(--global-link-color);
-  background: linear-gradient(135deg, rgba(0, 121, 193, 0.08), rgba(0, 121, 193, 0.02));
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 2rem;
+  padding: 1.8rem;
+  border: 1px solid rgba(0, 121, 193, 0.18);
+  border-radius: 10px;
+  background:
+    radial-gradient(circle at top right, rgba(0, 121, 193, 0.14), transparent 32%),
+    linear-gradient(135deg, rgba(0, 121, 193, 0.09), rgba(0, 121, 193, 0.025));
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.045);
 }
 
 .home-kicker {
@@ -122,8 +73,27 @@
 
 .home-lead {
   margin: 0;
-  font-size: 1.12em;
+  max-width: 46rem;
+  font-size: 1.18em;
   line-height: 1.65;
+}
+
+.hero-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 1rem;
+}
+
+.hero-topics span {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  border: 1px solid rgba(0, 121, 193, 0.22);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.55);
+  color: var(--global-text-color);
+  font-size: 0.82em;
+  font-weight: 700;
 }
 
 .home-actions {
@@ -133,22 +103,44 @@
   margin-top: 1rem;
 }
 
+.home-actions .btn {
+  border-radius: 999px;
+}
+
+.profile-note,
+.page-lead {
+  margin: 1.1rem 0 1.7rem;
+  padding: 1rem 1.15rem;
+  border-left: 3px solid rgba(0, 121, 193, 0.45);
+  background: rgba(0, 121, 193, 0.045);
+}
+
+.profile-note p,
+.page-lead p,
+.section-intro {
+  margin: 0;
+  color: var(--global-text-color-light);
+  line-height: 1.65;
+}
+
 .research-grid,
 .home-summary-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.9rem;
+  gap: 1rem;
   margin: 1rem 0 1.5rem;
 }
 
 .research-card,
 .summary-card {
   display: block;
-  padding: 1rem;
+  min-height: 100%;
+  padding: 1.05rem 1.1rem;
   border: 1px solid var(--global-border-color);
-  border-radius: 6px;
+  border-radius: 9px;
   background: var(--global-bg-color);
-  box-shadow: 0 1px 0 var(--global-border-color);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.035);
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .research-card h3 {
@@ -164,6 +156,13 @@
   line-height: 1.5;
 }
 
+.research-card:hover,
+.summary-card:hover {
+  border-color: rgba(0, 121, 193, 0.45);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.055);
+  transform: translateY(-1px);
+}
+
 .summary-card {
   color: inherit;
   text-decoration: none;
@@ -174,7 +173,73 @@
   margin-bottom: 0.35rem;
 }
 
-.summary-card:hover {
+.publication-list {
+  margin-top: 1rem;
+}
+
+.pub-entry {
+  position: relative;
+  margin-bottom: 1rem;
+  padding: 1.1rem 1.15rem 1.05rem 1.2rem;
+  border: 1px solid var(--global-border-color);
+  border-left: 4px solid rgba(0, 121, 193, 0.55);
+  border-radius: 8px;
+  background: var(--global-bg-color);
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.035);
+}
+
+.pub-entry.featured {
+  border-left-width: 6px;
+  border-color: rgba(0, 121, 193, 0.26);
+  border-left-color: var(--global-link-color);
+  background:
+    linear-gradient(135deg, rgba(0, 121, 193, 0.085), rgba(0, 121, 193, 0.018));
+}
+
+.pub-entry h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05em;
+  line-height: 1.35;
+}
+
+.pub-entry p {
+  margin: 0.28rem 0;
+  line-height: 1.5;
+}
+
+.pub-label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  padding: 0.14rem 0.55rem;
+  border: 1px solid rgba(0, 121, 193, 0.22);
+  border-radius: 999px;
+  background: rgba(0, 121, 193, 0.055);
+  color: var(--global-text-color-light);
+  font-size: 0.7em;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.pub-meta {
+  color: var(--global-text-color-light);
+}
+
+.pub-links {
+  margin-top: 0.65rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  padding: 0.17rem 0.6rem;
+  border: 1px solid rgba(0, 121, 193, 0.28);
+  border-radius: 999px;
+  font-size: 0.78em;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
   border-color: var(--global-link-color);
 }
 
@@ -182,9 +247,17 @@
   margin-bottom: 0.75rem;
 }
 
-.page-intro {
-  color: var(--global-text-color-light);
-  font-size: 1.02em;
+.year-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.year-heading::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--global-border-color);
 }
 
 .supervision-list ul,
@@ -192,9 +265,20 @@
   margin-top: 0.5rem;
 }
 
-.supervision-list li {
-  margin-bottom: 0.55rem;
+.academic-list ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.academic-list li {
+  position: relative;
+  margin-bottom: 0.7rem;
+  padding: 0.75rem 0.9rem 0.75rem 1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  background: var(--global-bg-color);
   line-height: 1.55;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.028);
 }
 
 @media (max-width: 700px) {
@@ -205,5 +289,9 @@
 
   .home-hero {
     padding: 1rem;
+  }
+
+  .home-lead {
+    font-size: 1.04em;
   }
 }

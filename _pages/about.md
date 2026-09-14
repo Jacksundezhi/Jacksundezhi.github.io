@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-hero">
+<div class="home-hero academic-hero">
   <p class="home-kicker">PhD Candidate · Robotics and Mechatronics · University of Twente</p>
-  <p class="home-lead">I work on robotic ultrasound, medical image analysis, and image-guided robotic systems for healthcare. My research connects computer vision, robot perception and control, and clinical imaging workflows.</p>
+  <p class="home-lead">I develop perception and control methods for medical robotic systems, with a focus on robotic ultrasound, medical image analysis, and image-guided healthcare technologies.</p>
+  <div class="hero-topics">
+    <span>Robotic ultrasound</span>
+    <span>Medical AI</span>
+    <span>Computer vision</span>
+    <span>Human-robot interaction</span>
+  </div>
   <div class="home-actions">
     <a class="btn btn--primary btn--small" href="/publications/">Publications</a>
     <a class="btn btn--primary btn--small" href="/supervision/">Supervision</a>
@@ -19,7 +25,9 @@ redirect_from:
   </div>
 </div>
 
-I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering.
+<div class="profile-note">
+  <p>I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering.</p>
+</div>
 
 ## Research Interests
 
@@ -44,6 +52,8 @@ I am a PhD candidate in the Robotics and Mechatronics group at the University of
 
 ## Selected Publications
 
+<p class="section-intro">A few recent publications representing my work across medical robotics, biomedical signal analysis, and robotic ultrasound.</p>
+
 <div class="publication-list compact">
   <article class="pub-entry featured">
     <span class="pub-label">Journal</span>
@@ -62,6 +72,8 @@ I am a PhD candidate in the Robotics and Mechatronics group at the University of
 [View all publications](/publications/){: .btn .btn--primary .btn--small}
 
 ## Supervision and Teaching
+
+<p class="section-intro">I supervise student projects that connect perception, robotics, medical imaging, and interactive systems.</p>
 
 <div class="home-summary-grid">
   <a class="summary-card" href="/supervision/">
