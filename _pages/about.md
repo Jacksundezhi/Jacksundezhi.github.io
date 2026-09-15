@@ -25,7 +25,18 @@ redirect_from:
 </div>
 
 <div class="profile-note">
-  <p>I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering.</p>
+  <p>I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente, supervised by Kenan Niu and Stefano Stramigioli. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering, supervised by Yi Wang.</p>
+</div>
+
+<div class="profile-highlights">
+  <div>
+    <strong>Education and mentorship</strong>
+    <span>PhD, University of Twente · MSc, The Hong Kong Polytechnic University, EIE programme, Faculty of Electrical and Electronic Engineering</span>
+  </div>
+  <div>
+    <strong>Honors and awards</strong>
+    <span>National First Prize, Electronic Design Competition · First-Class Academic Scholarship</span>
+  </div>
 </div>
 
 ## Research Interests
