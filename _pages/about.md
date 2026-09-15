@@ -10,11 +10,10 @@ redirect_from:
 <div class="home-hero academic-hero">
   <p class="home-kicker">PhD Candidate · Robotics and Mechatronics · University of Twente</p>
   <p class="home-lead">I develop perception and control methods for medical robotic systems, with a focus on robotic ultrasound, medical image analysis, and image-guided healthcare technologies.</p>
-  <div class="hero-topics">
-    <span>Robotic ultrasound</span>
-    <span>Medical AI</span>
-    <span>Computer vision</span>
-    <span>Human-robot interaction</span>
+  <div class="hero-stats">
+    <div><strong>Robotic ultrasound</strong><span>medical imaging and reconstruction</span></div>
+    <div><strong>Computer vision</strong><span>segmentation and robot perception</span></div>
+    <div><strong>Human-robot systems</strong><span>AR/VR, force control, adaptive autonomy</span></div>
   </div>
   <div class="home-actions">
     <a class="btn btn--primary btn--small" href="/publications/">Publications</a>
@@ -31,22 +30,18 @@ redirect_from:
 
 ## Research Interests
 
-<div class="research-grid">
-  <div class="research-card">
-    <h3>Robotic ultrasound</h3>
-    <p>Autonomous scanning, musculoskeletal imaging, and image-guided data acquisition.</p>
+<div class="focus-list">
+  <div>
+    <strong>Robotic ultrasound and image-guided robotics</strong>
+    <span>Autonomous scanning, musculoskeletal imaging, 3D reconstruction, and clinically oriented robotic workflows.</span>
   </div>
-  <div class="research-card">
-    <h3>Medical image analysis</h3>
-    <p>Segmentation, reconstruction, and robust perception for clinical and rehabilitation settings.</p>
+  <div>
+    <strong>Medical image analysis and computer vision</strong>
+    <span>Segmentation, robust visual perception, and data-driven interpretation for medical and rehabilitation applications.</span>
   </div>
-  <div class="research-card">
-    <h3>Robot perception and control</h3>
-    <p>Force-aware interaction, adaptive autonomy, and vision-based robotic manipulation.</p>
-  </div>
-  <div class="research-card">
-    <h3>AR/VR for healthcare</h3>
-    <p>Human-robot interfaces, training systems, and assistive visualization for medical robotics.</p>
+  <div>
+    <strong>Interactive healthcare robotics</strong>
+    <span>AR/VR-assisted interfaces, force-aware control, tactile perception, and adaptive autonomy for human-robot collaboration.</span>
   </div>
 </div>
 
@@ -54,14 +49,14 @@ redirect_from:
 
 <p class="section-intro">A few recent publications representing my work across medical robotics, biomedical signal analysis, and robotic ultrasound.</p>
 
-<div class="publication-list compact">
-  <article class="pub-entry featured">
+<div class="publication-list compact selected-list">
+  <article class="pub-entry featured selected-paper">
     <span class="pub-label">Journal</span>
     <h3>Self-derived Motion Features from sEMG for Inferring 3D Forearm Trajectories</h3>
     <p>B. Lan, <strong>Dezhi Sun</strong>, I. Tamadon, Kenan Niu.</p>
     <p class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, 2026.</p>
   </article>
-  <article class="pub-entry">
+  <article class="pub-entry selected-paper">
     <span class="pub-label">Journal</span>
     <h3>HCCE-CUNet Based Multi-Class Musculoskeletal Segmentation for Robotic Ultrasound System</h3>
     <p><strong>Dezhi Sun</strong>, Stefano Stramigioli, Kenan Niu.</p>
@@ -77,7 +72,7 @@ redirect_from:
 
 <div class="home-summary-grid">
   <a class="summary-card" href="/supervision/">
-    <strong>Student supervision</strong>
+    <strong>Supervision</strong>
     <span>MSc, BSc, and Academic Skills projects in robotics, perception, AR/VR, and medical AI.</span>
   </a>
   <a class="summary-card" href="/teaching/">
