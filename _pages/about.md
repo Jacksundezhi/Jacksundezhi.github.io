@@ -87,7 +87,7 @@ redirect_from:
     <span>MSc, BSc, and Academic Skills projects in robotics, perception, AR/VR, and medical AI.</span>
   </a>
   <a class="summary-card" href="/teaching/">
-    <strong>Teaching</strong>
-    <span>Teaching assistant experience in image reconstruction, AI, image processing, and computer vision.</span>
+    <strong>Teaching & Service</strong>
+    <span>Teaching, guest lectures, and academic service for journals and robotics conferences.</span>
   </a>
 </div>
