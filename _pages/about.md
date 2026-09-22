@@ -35,7 +35,7 @@ redirect_from:
   </div>
   <div>
     <strong>Honors and awards</strong>
-    <span>National First Prize, Electronic Design Competition · First-Class Academic Scholarship</span>
+    <span>National First Prize, Electronic Design Competition · First-Class Academic Scholarship · Outstanding Graduate · Outstanding Graduation Thesis</span>
   </div>
 </div>
 
@@ -72,6 +72,12 @@ redirect_from:
     <h3>HCCE-CUNet Based Multi-Class Musculoskeletal Segmentation for Robotic Ultrasound System</h3>
     <p><strong>Dezhi Sun</strong>, Stefano Stramigioli, Kenan Niu.</p>
     <p class="pub-meta"><em>IEEE Transactions on Medical Robotics and Bionics</em>, 2025.</p>
+  </article>
+  <article class="pub-entry selected-paper">
+    <span class="pub-label">Journal</span>
+    <h3>Gastric volume reduction estimation following Endoscopic Sleeve Gastroplasty through Image-based Analysis</h3>
+    <p>M. Vannucci, <strong>Dezhi Sun</strong>, Kenan Niu, B. Lan, E. Reitano, A. Lapergola, S. Perretta.</p>
+    <p class="pub-meta"><em>Surgical Endoscopy</em>, 1-6, 2026.</p>
   </article>
 </div>
 
