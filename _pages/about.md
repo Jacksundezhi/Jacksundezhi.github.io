@@ -83,9 +83,9 @@ redirect_from:
 
 [View all publications](/publications/){: .btn .btn--primary .btn--small}
 
-## Supervision and Teaching
+## Supervision, Teaching, and Activities
 
-<p class="section-intro">I supervise student projects that connect perception, robotics, medical imaging, and interactive systems.</p>
+<p class="section-intro">I supervise student projects, contribute to teaching, and take part in academic community activities related to robotics, medical imaging, and healthcare technologies.</p>
 
 <div class="home-summary-grid">
   <a class="summary-card" href="/supervision/">
@@ -95,5 +95,9 @@ redirect_from:
   <a class="summary-card" href="/teaching/">
     <strong>Teaching & Service</strong>
     <span>Teaching, guest lectures, and academic service for journals and robotics conferences.</span>
+  </a>
+  <a class="summary-card" href="/activities/">
+    <strong>Activities</strong>
+    <span>Conference participation, training courses, and professional development in biomedical engineering and robotics.</span>
   </a>
 </div>
