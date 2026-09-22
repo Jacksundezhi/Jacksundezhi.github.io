@@ -297,6 +297,46 @@
   margin-bottom: 0.75rem;
 }
 
+.timeline-list {
+  margin: 1rem 0 1.7rem;
+  border-top: 1px solid var(--global-border-color);
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.timeline-date {
+  color: var(--global-link-color);
+  font-size: 0.86em;
+  font-weight: 800;
+}
+
+.timeline-item h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1em;
+  line-height: 1.35;
+}
+
+.timeline-item p {
+  margin: 0.25rem 0;
+  line-height: 1.5;
+}
+
+.timeline-meta {
+  color: var(--global-text-color-light);
+  font-size: 0.86em;
+  font-weight: 700;
+}
+
+.compact-news .timeline-item {
+  padding: 0.85rem 0;
+}
+
 .year-heading {
   display: flex;
   align-items: center;
@@ -332,11 +372,57 @@
   box-shadow: none;
 }
 
+.supervision-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin: 1rem 0 1.8rem;
+}
+
+.supervision-card {
+  padding: 0.95rem 1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 7px;
+  background: var(--global-bg-color);
+}
+
+.student-name {
+  margin: 0 0 0.35rem;
+  color: var(--global-link-color);
+  font-size: 0.84em;
+  font-weight: 800;
+}
+
+.supervision-card h3 {
+  margin: 0;
+  font-size: 0.98em;
+  line-height: 1.35;
+}
+
+.supervision-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.65rem 0 0;
+}
+
+.supervision-meta span {
+  display: inline-block;
+  padding: 0.12rem 0.5rem;
+  border: 1px solid rgba(0, 121, 193, 0.22);
+  border-radius: 999px;
+  color: var(--global-text-color-light);
+  font-size: 0.72em;
+  font-weight: 800;
+}
+
 @media (max-width: 700px) {
   .home-summary-grid,
   .hero-stats,
   .profile-highlights div,
-  .focus-list div {
+  .focus-list div,
+  .timeline-item,
+  .supervision-grid {
     grid-template-columns: 1fr;
   }
 

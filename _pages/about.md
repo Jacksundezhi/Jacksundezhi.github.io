@@ -83,6 +83,34 @@ redirect_from:
 
 [View all publications](/publications/){: .btn .btn--primary .btn--small}
 
+## Selected News
+
+<div class="timeline-list compact-news">
+  <article class="timeline-item">
+    <span class="timeline-date">2026</span>
+    <div>
+      <h3>New Surgical Endoscopy publication on ESG image-based analysis</h3>
+      <p>Our collaborative study on gastric volume reduction estimation following endoscopic sleeve gastroplasty was published in <em>Surgical Endoscopy</em>.</p>
+    </div>
+  </article>
+  <article class="timeline-item">
+    <span class="timeline-date">2026</span>
+    <div>
+      <h3>IEEE TBME paper on sEMG-based 3D forearm trajectory inference</h3>
+      <p>Our work on self-derived motion features from sEMG was published in <em>IEEE Transactions on Biomedical Engineering</em>.</p>
+    </div>
+  </article>
+  <article class="timeline-item">
+    <span class="timeline-date">2025</span>
+    <div>
+      <h3>Robotic ultrasound segmentation work published in IEEE T-MRB</h3>
+      <p>Our HCCE-CUNet work for multi-class musculoskeletal segmentation in robotic ultrasound systems was published in <em>IEEE Transactions on Medical Robotics and Bionics</em>.</p>
+    </div>
+  </article>
+</div>
+
+[View all news](/news/){: .btn .btn--primary .btn--small}
+
 ## Supervision, Teaching, and Activities
 
 <p class="section-intro">I supervise student projects, contribute to teaching, and take part in academic community activities related to robotics, medical imaging, and healthcare technologies.</p>
