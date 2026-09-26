@@ -7,20 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-hero academic-hero">
-  <p class="home-kicker">PhD Candidate · Robotics and Mechatronics · University of Twente</p>
-  <p class="home-lead">I develop perception and control methods for medical robotic systems, with a focus on robotic ultrasound, medical image analysis, and image-guided healthcare technologies.</p>
-  <div class="hero-stats">
-    <div><strong>Robotic ultrasound</strong><span>medical imaging and reconstruction</span></div>
-    <div><strong>Computer vision</strong><span>segmentation and robot perception</span></div>
-    <div><strong>Human-robot systems</strong><span>AR/VR, force control, adaptive autonomy</span></div>
+<div class="home-hero">
+  <div class="hero-main">
+    <p class="home-kicker">PhD Candidate · Robotics and Mechatronics · University of Twente</p>
+    <h1>Medical robotics, robotic ultrasound, and computer vision for image-guided healthcare.</h1>
+    <p class="home-lead">I develop perception and control methods for medical robotic systems, with a focus on robotic ultrasound, medical image analysis, and AR/VR-assisted healthcare technologies.</p>
+    <div class="home-actions">
+      <a class="btn btn--primary btn--small" href="/publications/">Publications</a>
+      <a class="btn btn--primary btn--small" href="/news/">News</a>
+      <a class="btn btn--primary btn--small" href="/supervision/">Supervision</a>
+      {% if site.author.googlescholar %}
+        <a class="btn btn--primary btn--small" href="{{ site.author.googlescholar }}">Google Scholar</a>
+      {% endif %}
+    </div>
   </div>
-  <div class="home-actions">
-    <a class="btn btn--primary btn--small" href="/publications/">Publications</a>
-    <a class="btn btn--primary btn--small" href="/supervision/">Supervision</a>
-    {% if site.author.googlescholar %}
-      <a class="btn btn--primary btn--small" href="{{ site.author.googlescholar }}">Google Scholar</a>
-    {% endif %}
+  <div class="hero-panel">
+    <p class="panel-title">Current Focus</p>
+    <ul>
+      <li>Autonomous robotic ultrasound scanning</li>
+      <li>Musculoskeletal segmentation and 3D reconstruction</li>
+      <li>Force-aware and AR/VR-assisted medical robotics</li>
+    </ul>
   </div>
 </div>
 
@@ -28,15 +35,22 @@ redirect_from:
   <p>I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente, supervised by Kenan Niu and Stefano Stramigioli. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering, supervised by Yi Wang.</p>
 </div>
 
-<div class="profile-highlights">
-  <div>
-    <strong>Education and mentorship</strong>
-    <span>PhD, University of Twente · MSc, The Hong Kong Polytechnic University, EIE programme, Faculty of Electrical and Electronic Engineering</span>
-  </div>
-  <div>
-    <strong>Honors and awards</strong>
-    <span>National First Prize, Electronic Design Competition · First-Class Academic Scholarship · Outstanding Graduate · Outstanding Graduation Thesis</span>
-  </div>
+<div class="profile-highlights highlight-cards">
+  <article>
+    <span>Education</span>
+    <strong>University of Twente</strong>
+    <p>PhD candidate in Robotics and Mechatronics.</p>
+  </article>
+  <article>
+    <span>Previous Training</span>
+    <strong>The Hong Kong Polytechnic University</strong>
+    <p>MSc in Electronic and Information Engineering.</p>
+  </article>
+  <article>
+    <span>Honors</span>
+    <strong>Academic and design awards</strong>
+    <p>National First Prize, First-Class Academic Scholarship, Outstanding Graduate, and Outstanding Graduation Thesis.</p>
+  </article>
 </div>
 
 ## Research Interests
