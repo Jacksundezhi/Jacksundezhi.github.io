@@ -12,7 +12,7 @@ author_profile: true
 </div>
 
 - **3D Image Reconstruction & Visualisation** (Teaching Assistant and Guest Lecturer, 2025-2B, 2026)
-- **AI & Image Processing** (2025-2A, 2026-2A)
+- **AI & Image Processing** (Guest Lecturer, 2025-2A, 2026-2A)
 - **Image Processing and Computer Vision** (Teaching Assistant and Guest Lecturer, 2025-1A, 2026)
 
 ## Academic Service
