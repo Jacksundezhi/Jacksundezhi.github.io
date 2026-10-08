@@ -20,6 +20,7 @@ author_profile: true
 ### Journal Reviewer
 
 - **BMC Medical Imaging**
+- **BMC Musculoskeletal Disorders**
 - **Journal of Orthopaedic Surgery and Research**
 - **IEEE Transactions journals**
 - **IEEE Transactions on Medical Robotics and Bionics (T-MRB)**
