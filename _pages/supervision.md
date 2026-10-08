@@ -48,7 +48,7 @@ author_profile: true
 <article class="supervision-card">
   <p class="student-name">Boris ter Braak</p>
   <h3>Virtual Training Simulator for Endoscopic Middle Ear and Stapes Surgery</h3>
-  <p class="supervision-meta"><span>MSc assignment</span></p>
+  <p class="supervision-meta"><span>MSc assignment</span><span>Grade: 9/10</span></p>
 </article>
 
 <article class="supervision-card">
