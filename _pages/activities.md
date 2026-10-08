@@ -23,7 +23,7 @@ author_profile: true
 
 <div class="academic-list" markdown="1">
 
+- **Getting Started with the EuroHPC Federation Platform (EFP)** — 12 October 2026. Attended a EuroHPC webinar on EFP account registration, MFA setup, and allocation/project access onboarding.
 - **BEST Course, Strasbourg** — Participated in an international training course focused on academic and professional development in a European student and research environment.
 
 </div>
-
