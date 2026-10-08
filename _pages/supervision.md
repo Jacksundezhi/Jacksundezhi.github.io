@@ -75,6 +75,18 @@ author_profile: true
   <p class="supervision-meta"><span>MSc assignment</span></p>
 </article>
 
+<article class="supervision-card">
+  <p class="student-name">Yuqing Liu</p>
+  <h3><a href="https://www.ram.eemcs.utwente.nl/education/assignments/real-time-semg-driven-control-collaborative-robot-arm-human-robot-interaction">Real-time sEMG-driven control of a collaborative robot arm for human-robot interaction</a></h3>
+  <p class="supervision-meta"><span>MSc assignment</span></p>
+</article>
+
+<article class="supervision-card">
+  <p class="student-name">Oscar Peters</p>
+  <h3><a href="https://www.ram.eemcs.utwente.nl/education/assignments/reinforcement-learning-adaptive-robotic-ultrasound-scanning-human-arm">Reinforcement Learning for Adaptive Robotic Ultrasound Scanning of the Human Arm</a></h3>
+  <p class="supervision-meta"><span>MSc assignment</span></p>
+</article>
+
 </div>
 
 ### BSc Assignments
