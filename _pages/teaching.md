@@ -13,7 +13,7 @@ author_profile: true
 
 - **3D Image Reconstruction & Visualisation** (Teaching Assistant and Guest Lecturer, 2025-2B, 2026)
 - **AI & Image Processing** (Guest Lecturer, 2025-2A, 2026-2A)
-- **Image Processing and Computer Vision** (Teaching Assistant and Guest Lecturer, 2025-1A, 2026)
+- **Image Processing and Computer Vision** (Teaching Assistant and Guest Lecturer, 2025-1A, 2026). Guest lectures in 2026 covered object detection and Depth Anything.
 
 ## Academic Service
 
