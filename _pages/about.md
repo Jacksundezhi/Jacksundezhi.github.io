@@ -8,50 +8,22 @@ redirect_from:
 ---
 
 <div class="home-hero">
-  <div class="hero-main">
-    <p class="home-kicker">PhD Candidate · Robotics and Mechatronics · University of Twente</p>
-    <h1>Medical robotics, robotic ultrasound, and computer vision for image-guided healthcare.</h1>
-    <p class="home-lead">I develop perception and control methods for medical robotic systems, with a focus on robotic ultrasound, medical image analysis, and AR/VR-assisted healthcare technologies.</p>
-    <div class="home-actions">
-      <a class="btn btn--primary btn--small" href="/publications/">Publications</a>
-      <a class="btn btn--primary btn--small" href="/news/">News</a>
-      <a class="btn btn--primary btn--small" href="/supervision/">Supervision</a>
-      {% if site.author.googlescholar %}
-        <a class="btn btn--primary btn--small" href="{{ site.author.googlescholar }}">Google Scholar</a>
-      {% endif %}
-    </div>
-  </div>
-  <div class="hero-panel">
-    <p class="panel-title">Current Focus</p>
-    <ul>
-      <li>Autonomous robotic ultrasound scanning</li>
-      <li>Musculoskeletal segmentation and 3D reconstruction</li>
-      <li>Force-aware and AR/VR-assisted medical robotics</li>
-    </ul>
+  <p class="home-kicker">PhD Candidate · Robotics and Mechatronics · University of Twente</p>
+  <p class="home-lead">I develop perception and control methods for medical robotics, with a focus on robotic ultrasound, musculoskeletal image analysis, and image-guided healthcare.</p>
+  <div class="home-actions">
+    <a class="btn btn--primary btn--small" href="/publications/">Publications</a>
+    <a class="btn btn--inverse btn--small" href="/supervision/">Supervision</a>
+    {% if site.author.googlescholar %}
+      <a class="btn btn--inverse btn--small" href="{{ site.author.googlescholar }}">Google Scholar</a>
+    {% endif %}
   </div>
 </div>
 
 <div class="profile-note">
-  <p>I am a PhD candidate in the Robotics and Mechatronics group at the University of Twente, supervised by Kenan Niu and Stefano Stramigioli. I received my MSc from The Hong Kong Polytechnic University in Electronic and Information Engineering, supervised by Yi Wang.</p>
+  <p>At the University of Twente, I am supervised by Kenan Niu and Stefano Stramigioli. I received my MSc in Electronic and Information Engineering from The Hong Kong Polytechnic University, where I was supervised by Yi Wang.</p>
 </div>
 
-<div class="profile-highlights highlight-cards">
-  <article>
-    <span>Education</span>
-    <strong>University of Twente</strong>
-    <p>PhD candidate in Robotics and Mechatronics.</p>
-  </article>
-  <article>
-    <span>Previous Training</span>
-    <strong>The Hong Kong Polytechnic University</strong>
-    <p>MSc in Electronic and Information Engineering.</p>
-  </article>
-  <article>
-    <span>Honors</span>
-    <strong>Academic and design awards</strong>
-    <p>National First Prize, First-Class Academic Scholarship, Outstanding Graduate, and Outstanding Graduation Thesis.</p>
-  </article>
-</div>
+<p class="home-honors"><strong>Selected honors</strong> National First Prize, Electronic Design Competition · First-Class Academic Scholarship · Outstanding Graduate · Outstanding Graduation Thesis</p>
 
 ## Research Interests
 
@@ -80,6 +52,7 @@ redirect_from:
     <h3>Self-derived Motion Features from sEMG for Inferring 3D Forearm Trajectories</h3>
     <p>B. Lan, <strong>Dezhi Sun</strong>, I. Tamadon, Kenan Niu.</p>
     <p class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, 2026.</p>
+    <p class="pub-links"><a href="https://doi.org/10.1109/TBME.2026.3686312">DOI</a></p>
   </article>
   <article class="pub-entry selected-paper">
     <span class="pub-label">Journal</span>
@@ -92,6 +65,7 @@ redirect_from:
     <h3>Gastric volume reduction estimation following Endoscopic Sleeve Gastroplasty through Image-based Analysis</h3>
     <p>M. Vannucci, <strong>Dezhi Sun</strong>, Kenan Niu, B. Lan, E. Reitano, A. Lapergola, S. Perretta.</p>
     <p class="pub-meta"><em>Surgical Endoscopy</em>, 1-6, 2026.</p>
+    <p class="pub-links"><a href="https://doi.org/10.1007/s00464-026-13368-2">DOI</a></p>
   </article>
 </div>
 
@@ -104,28 +78,24 @@ redirect_from:
     <span class="timeline-date">Oct 2026</span>
     <div>
       <h3>Two papers accepted at ROBIO</h3>
-      <p>Two research papers were accepted at ROBIO.</p>
     </div>
   </article>
   <article class="timeline-item">
     <span class="timeline-date">Oct 2026</span>
     <div>
       <h3>Surgical Endoscopy paper accepted on ESG image-based analysis</h3>
-      <p>Our collaborative study on gastric volume reduction estimation following endoscopic sleeve gastroplasty was accepted by <em>Surgical Endoscopy</em>.</p>
     </div>
   </article>
   <article class="timeline-item">
     <span class="timeline-date">May 2026</span>
     <div>
       <h3>IEEE TBME paper on sEMG-based 3D forearm trajectory inference</h3>
-      <p>Our work on self-derived motion features from sEMG was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p>
     </div>
   </article>
   <article class="timeline-item">
     <span class="timeline-date">Dec 2025</span>
     <div>
       <h3>Surgical Endoscopy paper accepted on ESG video assessment</h3>
-      <p>Our collaborative study on ESG video assessment and clinical follow-up outcomes was accepted by <em>Surgical Endoscopy</em>.</p>
     </div>
   </article>
 </div>
