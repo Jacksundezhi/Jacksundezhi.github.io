@@ -16,9 +16,9 @@ author_profile: true
 <article class="timeline-item">
   <span class="timeline-date">Oct 2026</span>
   <div>
-    <h3>Two papers accepted at IPCAI</h3>
-    <p class="timeline-meta">IPCAI · Accepted</p>
-    <p>Two research papers were accepted at IPCAI.</p>
+    <h3>Two papers accepted at ROBIO</h3>
+    <p class="timeline-meta">ROBIO · Accepted</p>
+    <p>Two research papers were accepted at ROBIO.</p>
   </div>
 </article>
 

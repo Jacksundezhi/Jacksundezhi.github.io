@@ -103,8 +103,8 @@ redirect_from:
   <article class="timeline-item">
     <span class="timeline-date">Oct 2026</span>
     <div>
-      <h3>Two papers accepted at IPCAI</h3>
-      <p>Two research papers were accepted at IPCAI.</p>
+      <h3>Two papers accepted at ROBIO</h3>
+      <p>Two research papers were accepted at ROBIO.</p>
     </div>
   </article>
   <article class="timeline-item">
