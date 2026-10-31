@@ -101,31 +101,31 @@ redirect_from:
 
 <div class="timeline-list compact-news">
   <article class="timeline-item">
-    <span class="timeline-date">15 Oct 2026</span>
+    <span class="timeline-date">Oct 2026</span>
     <div>
       <h3>Two papers accepted at IPCAI</h3>
       <p>Two research papers were accepted at IPCAI.</p>
     </div>
   </article>
   <article class="timeline-item">
-    <span class="timeline-date">2026</span>
+    <span class="timeline-date">Oct 2026</span>
     <div>
-      <h3>New Surgical Endoscopy publication on ESG image-based analysis</h3>
-      <p>Our collaborative study on gastric volume reduction estimation following endoscopic sleeve gastroplasty was published in <em>Surgical Endoscopy</em>.</p>
+      <h3>Surgical Endoscopy paper accepted on ESG image-based analysis</h3>
+      <p>Our collaborative study on gastric volume reduction estimation following endoscopic sleeve gastroplasty was accepted by <em>Surgical Endoscopy</em>.</p>
     </div>
   </article>
   <article class="timeline-item">
-    <span class="timeline-date">2026</span>
+    <span class="timeline-date">May 2026</span>
     <div>
       <h3>IEEE TBME paper on sEMG-based 3D forearm trajectory inference</h3>
-      <p>Our work on self-derived motion features from sEMG was published in <em>IEEE Transactions on Biomedical Engineering</em>.</p>
+      <p>Our work on self-derived motion features from sEMG was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p>
     </div>
   </article>
   <article class="timeline-item">
-    <span class="timeline-date">2025</span>
+    <span class="timeline-date">Dec 2025</span>
     <div>
-      <h3>Robotic ultrasound segmentation work published in IEEE T-MRB</h3>
-      <p>Our HCCE-CUNet work for multi-class musculoskeletal segmentation in robotic ultrasound systems was published in <em>IEEE Transactions on Medical Robotics and Bionics</em>.</p>
+      <h3>Surgical Endoscopy paper accepted on ESG video assessment</h3>
+      <p>Our collaborative study on ESG video assessment and clinical follow-up outcomes was accepted by <em>Surgical Endoscopy</em>.</p>
     </div>
   </article>
 </div>
