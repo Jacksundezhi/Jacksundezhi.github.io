@@ -18,7 +18,7 @@ author_profile: true
 <article class="supervision-card">
   <p class="student-name">Marijn van Hilten</p>
   <h3>Vision-Based Deformable Object Manipulation with the Robotic Arm</h3>
-  <p class="supervision-meta"><span>MSc assignment</span><span>Grade: 9/10</span></p>
+  <p class="supervision-meta"><span>MSc assignment</span><span>Grade: 9/10</span><span>Related paper accepted at IEEE ROBIO</span></p>
 </article>
 
 <article class="supervision-card">
@@ -42,7 +42,7 @@ author_profile: true
 <article class="supervision-card">
   <p class="student-name">Khang Banh</p>
   <h3>AGI: Modular Embedded AI for Visual Servoing in Adaptive Robotic Systems</h3>
-  <p class="supervision-meta"><span>MSc assignment</span><span>Grade: 8.5/10</span></p>
+  <p class="supervision-meta"><span>MSc assignment</span><span>Grade: 8.5/10</span><span>Related paper accepted at IEEE ROBIO</span></p>
 </article>
 
 <article class="supervision-card">

@@ -101,6 +101,13 @@ redirect_from:
 
 <div class="timeline-list compact-news">
   <article class="timeline-item">
+    <span class="timeline-date">15 Oct 2026</span>
+    <div>
+      <h3>Two papers accepted at IEEE ROBIO</h3>
+      <p>Two papers related to the MSc projects of Marijn van Hilten and Khang Banh were accepted at IEEE ROBIO.</p>
+    </div>
+  </article>
+  <article class="timeline-item">
     <span class="timeline-date">2026</span>
     <div>
       <h3>New Surgical Endoscopy publication on ESG image-based analysis</h3>

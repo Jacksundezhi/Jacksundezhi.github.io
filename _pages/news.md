@@ -14,6 +14,15 @@ author_profile: true
 <div class="timeline-list">
 
 <article class="timeline-item">
+  <span class="timeline-date">15 Oct 2026</span>
+  <div>
+    <h3>Two papers accepted at IEEE ROBIO</h3>
+    <p class="timeline-meta">IEEE ROBIO · Accepted</p>
+    <p>Two papers related to the MSc projects of Marijn van Hilten and Khang Banh were accepted at IEEE ROBIO.</p>
+  </div>
+</article>
+
+<article class="timeline-item">
   <span class="timeline-date">2026</span>
   <div>
     <h3>Gastric volume reduction estimation following Endoscopic Sleeve Gastroplasty through Image-based Analysis</h3>
