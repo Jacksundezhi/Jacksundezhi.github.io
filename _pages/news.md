@@ -16,9 +16,9 @@ author_profile: true
 <article class="timeline-item">
   <span class="timeline-date">15 Oct 2026</span>
   <div>
-    <h3>Two papers accepted at IEEE ROBIO</h3>
-    <p class="timeline-meta">IEEE ROBIO · Accepted</p>
-    <p>Two papers related to the MSc projects of Marijn van Hilten and Khang Banh were accepted at IEEE ROBIO.</p>
+    <h3>Two papers accepted at IPCAI</h3>
+    <p class="timeline-meta">IPCAI · Accepted</p>
+    <p>Two research papers were accepted at IPCAI.</p>
   </div>
 </article>
 
