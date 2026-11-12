@@ -27,11 +27,13 @@ author_profile: true
 - **IEEE Transactions on Robotics (T-RO)**
 - **IEEE Robotics and Automation Letters (RA-L)**
 - **Journal of Intelligent & Robotic Systems**
+- **International Journal of Computer Assisted Radiology and Surgery (IJCARS)**
 - **Scientific Reports**
 - **Ultrasonics**
 
 ### Conference Reviewer
 
 - **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)**
+- **International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2027)**
 - **IEEE-RAS International Conference on Humanoid Robots**
 - **IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)**
