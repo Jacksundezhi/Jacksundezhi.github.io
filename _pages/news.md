@@ -32,6 +32,15 @@ author_profile: true
 </article>
 
 <article class="timeline-item">
+  <span class="timeline-date">2025–2026</span>
+  <div>
+    <h3>Two contributions accepted at EAES</h3>
+    <p class="timeline-meta">EAES · Accepted</p>
+    <p>One contribution was accepted at EAES 2026 in Athens and one at EAES 2025 in Belgrade.</p>
+  </div>
+</article>
+
+<article class="timeline-item">
   <span class="timeline-date">May 2026</span>
   <div>
     <h3>Self-derived Motion Features from sEMG for Inferring 3D Forearm Trajectories</h3>
