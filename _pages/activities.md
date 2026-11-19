@@ -15,6 +15,8 @@ author_profile: true
 
 <div class="academic-list" markdown="1">
 
+- **34th International Congress of the European Association for Endoscopic Surgery (EAES 2026)**, Athens, Greece. One conference abstract accepted.
+- **33rd International Congress of the European Association for Endoscopic Surgery (EAES 2025)**, Belgrade, Serbia. One conference abstract accepted.
 - **10th Dutch Biomedical Engineering Conference** — 2025. Participated in the national biomedical engineering community meeting and presented work related to robotic ultrasound and musculoskeletal reconstruction.
 
 </div>
