@@ -32,20 +32,19 @@ author_profile: true
 </article>
 
 <article class="timeline-item">
-  <span class="timeline-date">2025–2026</span>
-  <div>
-    <h3>Two contributions accepted at EAES</h3>
-    <p class="timeline-meta">EAES · Accepted</p>
-    <p>One contribution was accepted at EAES 2026 in Athens and one at EAES 2025 in Belgrade.</p>
-  </div>
-</article>
-
-<article class="timeline-item">
   <span class="timeline-date">May 2026</span>
   <div>
     <h3>Self-derived Motion Features from sEMG for Inferring 3D Forearm Trajectories</h3>
     <p class="timeline-meta">IEEE Transactions on Biomedical Engineering</p>
     <p>Our work on sEMG-derived motion features for 3D forearm trajectory inference was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p>
+  </div>
+</article>
+
+<article class="timeline-item">
+  <span class="timeline-date">2026</span>
+  <div>
+    <h3>One contribution accepted at EAES 2026</h3>
+    <p class="timeline-meta">Athens, Greece</p>
   </div>
 </article>
 
@@ -82,6 +81,14 @@ author_profile: true
     <h3>Automatic Robotic Ultrasound for 3D Musculoskeletal Reconstruction: A Comprehensive Framework</h3>
     <p class="timeline-meta">Technologies, 13(2), 70</p>
     <p>Our robotic ultrasound framework for 3D musculoskeletal reconstruction was accepted by <em>Technologies</em>.</p>
+  </div>
+</article>
+
+<article class="timeline-item">
+  <span class="timeline-date">2025</span>
+  <div>
+    <h3>One contribution accepted at EAES 2025</h3>
+    <p class="timeline-meta">Belgrade, Serbia</p>
   </div>
 </article>
 
